@@ -6,13 +6,11 @@
 
 ——但这不是会所出品的第一个程序。想了解更多请站内搜索关键字 [from-scpos](https://github.com/search?q=from-scpos) 。
 
-> ## *Game from n9gc!*
-
----
+> *Game from n9gc!*
 
 ## How to 安装
 
-1. 这个游戏有两个版本。一个版本是 $N \times N$ 的正方形圈叉棋，代号是 [ooxx](./ooxx.cpp) ；另一个版本是 $N \times N \times N$ 的立方体圈叉棋，代号是 [ooxx3d](./ooxx3d.cpp) 。
+1. 这个游戏有两个版本。一个版本是 $N \times N$ 的正方形圈叉棋，代号是 [ooxx](./blob/master/ooxx.cpp) ；另一个版本是 $N \times N \times N$ 的立方体圈叉棋，代号是 [ooxx3d](./blob/master/ooxx3d.cpp) 。
 
 2. 确定好版本后下载源代码。
 
